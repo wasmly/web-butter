@@ -1,13 +1,10 @@
-
 [![crates.io](https://img.shields.io/crates/v/web-butter.svg)](https://crates.io/crates/web-butter)
 [![Documentation](https://docs.rs/web-butter/badge.svg)](https://docs.rs/web-butter)
 [![MIT](https://img.shields.io/crates/l/web-butter.svg)](./LICENSE)
 
-
-
 # web-butter
 
-A simple no-cost wrapper for the web_sys crate to get auto-completes from IDE
+A simple no-cost wrapper for the web_sys crate to get auto-completes from IDE.
 
 [Docs](https://docs.rs/web-butter)
 
